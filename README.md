@@ -1,7 +1,7 @@
 # DjangoTodoApp
 Second test Django REST Framework app.
 
--> to create work directory, you should write this in console:
+-> To create work directory, you should write this in console:
 
 + mkdir todo && cd todo
 + mkdir backend && cd backend
@@ -10,10 +10,7 @@ Second test Django REST Framework app.
 + django-admin startproject config .
 + python manage.py startapp todos
 + python manage.py migrate
++ add to INSTALLED_APPS new app.
 
--> add to INSTALLED_APPS new app.
-
-
-
-To run the server: python manage.py runserver
+-> To run the server: python manage.py runserver
 
