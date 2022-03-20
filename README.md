@@ -17,6 +17,9 @@ To create work directory, you should write this in console:
 
 -> python manage.py migrate
 
-Add to INSTALLED_APPS new app.
++ add to INSTALLED_APPS new app.
 
+
+
+To run the server: python manage.py runserver
 
