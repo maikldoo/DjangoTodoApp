@@ -20,3 +20,7 @@ Second test Django REST Framework app.
 
 + python manage.py makemigrations **todos**
 + python manage.py migrate
+
+-> To create superuser to log in to the admin:
+
++ python manage.py createsuperuser
