@@ -12,5 +12,10 @@ Second test Django REST Framework app.
 + python manage.py migrate
 + add to INSTALLED_APPS new app.
 
--> To run the server: python manage.py runserver
+-> To run the server:
 
++ python manage.py runserver
+
+-> To migrate the database:
+
++ python manage.py makemigrations todos
